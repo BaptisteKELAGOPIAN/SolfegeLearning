@@ -98,7 +98,7 @@
         width : 100%;
     }
     .white{
-        color: white;
+        color: transparent;
         z-index: -2;
     }
     .line{
@@ -124,5 +124,4 @@
         width: 17px;
         z-index: -1;
     }
-
 </style>
