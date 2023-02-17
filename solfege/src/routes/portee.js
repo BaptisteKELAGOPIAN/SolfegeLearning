@@ -4,46 +4,46 @@ export let portee = [
     {
         name: "fa",
         empty: true,
-        main : Array.from({length: length_line}, () => 0)
+        pos : 0
     },
     {
         name: "mi",
         empty: false,
-        main : Array.from({length: length_line}, () => 0)
+        pos : 1
     },
     {
         name:"ré",
         empty: true,
-        main : Array.from({length: length_line}, () => 0)
+        pos : 2
     },
     {
         name: "do",
         empty: false,
-        main : Array.from({length: length_line}, () => 0)
+        pos : 3
     },
     {
         name: "si",
         empty: true,
-        main : Array.from({length: length_line}, () => 0)
+        pos : 4
     },
     {
         name: "la",
         empty: false,
-        main : Array.from({length: length_line}, () => 0)
+        pos : 5
     },
     {
         name: "sol",
         empty: true,
-        main : Array.from({length: length_line}, () => 0)
+        pos : 6
     },
     {
         name: "fa",
         empty: false,
-        main : Array.from({length: length_line}, () => 0)
+        pos : 7
     },
     {
         name: "mi",
         empty: true,
-        main : Array.from({length: length_line}, () => 0)
+        pos : 8
     },
 ];
