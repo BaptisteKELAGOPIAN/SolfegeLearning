@@ -1,5 +1,3 @@
-let length_line = 500;
-
 export let portee = [
     {
         name: "fa",
